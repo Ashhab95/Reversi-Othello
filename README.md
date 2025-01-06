@@ -147,15 +147,9 @@ optional arguments:
 
 ---
 
-## Issues? Bugs? Questions?
-
-Feel free to open an issue in this repository or contact us through the provided channels.
-
----
-
 ## About
 
-This is a class project for COMP 424, McGill University, Fall 2024. The student agent was developed by Kazi Ashhab Rahman.
+This is a class project for COMP 424, McGill University, Fall 2024. The student agent was developed by Kazi Ashhab Rahman [kazi.a.rahman@mail.mcgill.ca].
 
 ---
 

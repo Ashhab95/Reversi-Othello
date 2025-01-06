@@ -1,4 +1,4 @@
-# Reversi/Othello!
+# Reversi Othello
 
 <p align="center">
   <img src="https://t4.ftcdn.net/jpg/00/90/53/03/240_F_90530312_4Mg3HCsCMW91NVHKWNlBaRo8F5pHhN3c.jpg?w=690&h=388&c=crop" alt="Reversi Othello Image">

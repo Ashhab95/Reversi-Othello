@@ -149,7 +149,7 @@ optional arguments:
 
 ## About
 
-This is a class project for COMP 424, McGill University, Fall 2024. The student agent was developed by Kazi Ashhab Rahman [kazi.a.rahman@mail.mcgill.ca].
+Developed by Kazi Ashhab Rahman [kazi.a.rahman@mail.mcgill.ca].
 
 ---
 
